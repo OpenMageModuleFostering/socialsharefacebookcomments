@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SocialShareFacebookComments",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Facebook Comments",
+    "authors": [
+    {
+        "name": "Roy Toledo",
+        "email": "toledoroy@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
