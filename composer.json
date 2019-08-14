@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/SocialShareFacebookComments",
     "type": "magento-module",
-    "license": "GPL",
+    "license": "OSL",
     "homepage": "",
-    "description": "Facebook Comments",
+    "description": "Add Open facebook Comments To Your Magento Store",
     "authors": [
     {
         "name": "Roy Toledo",
