@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/SocialShareFacebookComments",
+    "name": "openmage-module-fostering\/socialsharefacebookcomments",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Easily Facebook Comments To Your Magento Store",
     "authors": [
