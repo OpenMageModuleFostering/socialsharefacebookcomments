@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/SocialShareFacebookComments",
+    "name": "OpenMageModuleFostering\/SocialShareFacebookComments",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Easily Facebook Comments To Your Magento Store",
     "authors": [
-    {
-        "name": "Roy Toledo",
-        "email": "toledoroy@gmail.com"
-    }
-],
+        {
+            "name": "Roy Toledo",
+            "email": "toledoroy@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
